@@ -42,7 +42,7 @@ body {
     flex-direction: row-reverse;
     justify-content: start;
     gap: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 2%;
     transition: all 0.5s ease;
 }
 .main-block:hover {
@@ -70,11 +70,6 @@ body {
     display: flex;
     height: 100%;
     align-items: flex-end;
-}
-.block-price {
-}
-.block__img {
-
 }
 .block-img {
     aspect-ratio: 1;
